@@ -1,0 +1,42 @@
+[09-Aug-2024 21:27:38 America/Mexico_City] PHP Warning:  Undefined array key "imprimir" in /home4/unidsyst/public_html/sofia/generar.php on line 12
+[09-Aug-2024 21:27:38 America/Mexico_City] PHP Warning:  Undefined variable $clave in /home4/unidsyst/public_html/sofia/generar.php on line 84
+[09-Aug-2024 21:37:10 America/Mexico_City] PHP Warning:  Undefined array key "sendfolio" in /home4/unidsyst/public_html/sofia/actualizareg.php on line 1
+[09-Aug-2024 21:37:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/unidsyst/public_html/sofia/actualizareg.php:354
+Stack trace:
+#0 /home4/unidsyst/public_html/sofia/actualizareg.php(354): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home4/unidsyst/public_html/sofia/actualizareg.php on line 354
+[09-Aug-2024 21:52:22 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/unidsyst/public_html/sofia/salir.php on line 5
+[09-Aug-2024 21:52:22 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home4/unidsyst/public_html/sofia/salir.php on line 7
+[09-Aug-2024 21:52:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/unidsyst/public_html/sofia/salir.php on line 7
+[09-Aug-2024 21:52:22 America/Mexico_City] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home4/unidsyst/public_html/sofia/salir.php on line 13
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $folio in /home4/unidsyst/public_html/sofia/busqueda.php on line 363
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $fecha in /home4/unidsyst/public_html/sofia/busqueda.php on line 367
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $hora in /home4/unidsyst/public_html/sofia/busqueda.php on line 371
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $titulo in /home4/unidsyst/public_html/sofia/busqueda.php on line 375
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $cibermedio in /home4/unidsyst/public_html/sofia/busqueda.php on line 379
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $grupo in /home4/unidsyst/public_html/sofia/busqueda.php on line 383
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $url in /home4/unidsyst/public_html/sofia/busqueda.php on line 387
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $pais in /home4/unidsyst/public_html/sofia/busqueda.php on line 391
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $idioma in /home4/unidsyst/public_html/sofia/busqueda.php on line 395
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $categorizacion in /home4/unidsyst/public_html/sofia/busqueda.php on line 399
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $notas in /home4/unidsyst/public_html/sofia/busqueda.php on line 403
+[10-Aug-2024 01:47:13 America/Mexico_City] PHP Warning:  Undefined variable $folio in /home4/unidsyst/public_html/sofia/busqueda.php on line 421
+[10-Aug-2024 01:47:53 America/Mexico_City] PHP Warning:  Undefined array key "sendfolio" in /home4/unidsyst/public_html/sofia/actualizareg.php on line 1
+[10-Aug-2024 01:47:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/unidsyst/public_html/sofia/actualizareg.php:354
+Stack trace:
+#0 /home4/unidsyst/public_html/sofia/actualizareg.php(354): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home4/unidsyst/public_html/sofia/actualizareg.php on line 354
+[10-Aug-2024 01:48:26 America/Mexico_City] PHP Warning:  Undefined array key "sendfolio" in /home4/unidsyst/public_html/sofia/actualizareg.php on line 1
+[10-Aug-2024 01:48:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/unidsyst/public_html/sofia/actualizareg.php:354
+Stack trace:
+#0 /home4/unidsyst/public_html/sofia/actualizareg.php(354): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home4/unidsyst/public_html/sofia/actualizareg.php on line 354
+[10-Aug-2024 03:32:24 America/Mexico_City] PHP Warning:  Undefined array key "sendfolio" in /home4/unidsyst/public_html/sofia/actualizareg.php on line 1
+[10-Aug-2024 03:32:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/unidsyst/public_html/sofia/actualizareg.php:354
+Stack trace:
+#0 /home4/unidsyst/public_html/sofia/actualizareg.php(354): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home4/unidsyst/public_html/sofia/actualizareg.php on line 354
